@@ -1,0 +1,1 @@
+Flight #{{ flight.id }}: {{ flight.origin }} to {{ flight.destination }}
